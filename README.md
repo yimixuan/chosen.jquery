@@ -26,7 +26,10 @@ $(".chosen-select").trigger("chosen:updated");
 ```
 <select  name="arg" class="chosen-select" id="orgId">
 ```
-> 注意还有两张图是和css在同一级目录下的（分别是chosen-sprite.png和chosen-sprite@2x.png）
+> 注意还有两张图是和css在同一级目录下的（分别是`chosen-sprite.png`和`chosen-sprite@2x.png`）
+
+![image](https://github.com/yimixuan/chosen/blob/master/public/chosen-sprite.png)
+![image](https://github.com/yimixuan/chosen/blob/master/public/chosen-sprite@2x.png)
 ### 项目实例
 ```
 $("#searchForm #orgId").change(function(){
